@@ -38,16 +38,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Streak Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rikita0514&repo=Forest_Cover_Prediction&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rikita0514&repo=Connect4_react_app&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=rikita0514&theme=tokyonight"/>
 </p>
+
 ---
+
 
 ## 🌐 Connect With Me
 
