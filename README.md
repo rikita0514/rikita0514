@@ -32,10 +32,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rikita0514&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikita0514&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikita0514&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rikita0514&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -61,10 +61,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikita0514&repo=Forest_Cover_Prediction&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rikita0514&repo=Forest_Cover_Prediction&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rikita0514&repo=Connect4_react_app&theme=tokyonight"/>
 
 </p>
-
 ---
 
 ## 🌐 Connect With Me
