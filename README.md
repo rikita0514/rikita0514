@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=3E8ED0&center=true&vCenter=true&width=500&lines=Biotechnology+Graduate;Aspiring+Machine+Learning+Engineer;Interested+in+Healthcare+AI;Building+Real+World+Projects" />
 <b></p>
 
-## Biotechnology and Environmental Science graduate from Delhi University with strong interest in Machine Learning and Data Science.
+#### Biotechnology and Environmental Science graduate from Delhi University with strong interest in Machine Learning and Data Science.
 
-## Interested in:
+#### Interested in:
 - Healthcare AI
 - Predictive Modeling
 - Real-world Data Applications
 - Model Deployment
 
-## Currently building ML Projects to strengthen practical skills.
+#### Currently building ML Projects to strengthen practical skills.
 
 # Skills
 - Python
