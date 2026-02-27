@@ -16,9 +16,7 @@ Currently building ML Projects to strengthen practical skills.
 
 ## 📊 GitHub Stats
 
-![Rikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikita0514&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikita0514E&layout=compact&theme=radical)
+![Rikita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rikita0514&show_icons=true&theme=radical)
 
 ## Skills
 - Python
