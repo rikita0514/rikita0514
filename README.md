@@ -1,40 +1,90 @@
 <h1 align="center">Hi 👋, I'm Rikita Mondal</h1>
 
-<p align="center"><b>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=3E8ED0&center=true&vCenter=true&width=500&lines=Biotechnology+Graduate;Aspiring+Machine+Learning+Engineer;Interested+in+Healthcare+AI;Building+Real+World+Projects" />
-<b></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Biotechnology+Graduate;Future+ML+Engineer;Building+Real+World+Projects;Healthcare+AI+Explorer" />
+</p>
 
-#### Biotechnology and Environmental Science graduate from Delhi University with strong interest in Machine Learning and Data Science.
+---
 
-#### Interested in:
-- Healthcare AI
-- Predictive Modeling
-- Real-world Data Applications
-- Model Deployment
+## 👩‍💻 About Me
 
-#### Currently building ML Projects to strengthen practical skills.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# Skills
-- Python
-- Machine Learning
-- Data Analysis
-- React.js
-- Git & GitHub
+- 🎓 Biotechnology & Environmental Science Post-graduate  
+- 🤖 Aspiring Machine Learning Engineer  
+- 🧠 Interested in Healthcare AI & Predictive Modeling  
+- 📊 Passionate about Data Science and real-world applications  
+- 🚀 Currently building ML projects  
+- 🎯 Goal: Transition into ML / Data Science roles  
 
-# Projects
-- Liver Disease Prediction (Machine Learning)
-- Forest Cover Prediction
-- COVID-19 Prediction Model
-- Connect 4 Game (React)
+---
 
-# Currently Learning
-- Advanced Machine Learning
-- Model Deployment
-- Data Science
+## 🛠️ Skills & Tools
 
-## Goal
-To transition into Machine Learning / Data Science roles and work on real-world healthcare data problems.
+<p align="center">
 
-## 🐍 Contribution Snake
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,github,react,vscode" />
 
-![snake gif](https://github.com/rikita0514/rikita0514/blob/output/github-contribution-grid-snake.svg)
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rikita0514&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikita0514&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikita0514&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rikita0514&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikita0514&repo=REPO_NAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/rikita-mondal-72b9a8188">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto: rikitamondal0514@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rikita0514/rikita0514/output/snake.svg"/>
+</p>
