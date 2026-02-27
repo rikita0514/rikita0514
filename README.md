@@ -29,30 +29,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rikita0514&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rikita0514&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikita0514&theme=tokyo-night"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rikita0514&theme=tokyonight"/>
 </p>
 
 ---
