@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikita0514&repo=REPO_NAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rikita0514&repo=Forest_Cover_Prediction&theme=tokyonight"/>
 
 </p>
 
