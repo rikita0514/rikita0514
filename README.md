@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rikita Mondal</h1>
 
-<p align="center">
+<p align="center"><b>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=3E8ED0&center=true&vCenter=true&width=500&lines=Biotechnology+Graduate;Aspiring+Machine+Learning+Engineer;Interested+in+Healthcare+AI;Building+Real+World+Projects" />
-</p>
+<b></p>
 
 Biotechnology and Environmental Science graduate from Delhi University with strong interest in Machine Learning and Data Science.
 
@@ -16,9 +16,9 @@ Currently building ML Projects to strengthen practical skills.
 
 ## 📊 GitHub Stats
 
-![Rikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikita0514&show_icons=true&theme=tokyonight)
+![Rikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikita0514&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikita0514&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikita0514E&layout=compact&theme=radical)
 
 ## Skills
 - Python
