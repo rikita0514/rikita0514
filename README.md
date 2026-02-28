@@ -22,7 +22,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,javascript,git,github,react,vscode,gcs" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,javascript,git,github,react,vscode,gcs,jupyter" />
 </p>
 
 ---
