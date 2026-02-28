@@ -23,6 +23,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,javascript,git,github,react,vscode" />
+  <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
