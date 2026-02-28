@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rikita Mondal</h1>
+<h1 align="center"><b><i>Hi 👋, I'm Rikita Mondal</i></b></h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Biotechnology+Graduate;Future+ML+Engineer;Building+Real+World+Projects;Healthcare+AI+Explorer" />
