@@ -53,12 +53,16 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rikita-mondal-72b9a8188/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:rikitamondal0514@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rikitamondal0514@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="rikitamondal0514@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/rikita0514">
+  <img src="https://img.shields.io/badge/GitHub-rikita0514-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
