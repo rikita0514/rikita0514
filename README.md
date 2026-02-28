@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/rikita-mondal-72b9a8188">
+<a href="https://www.linkedin.com/in/rikita-mondal-72b9a8188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
