@@ -22,7 +22,12 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,javascript,git,github,react,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,javascript,git,github,react,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
 </p>
 
 ---
